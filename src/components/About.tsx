@@ -1,7 +1,7 @@
 
 const About = () => {
   return (
-    <section id="about" className="about">
+    <section id="about" className="about" data-testid="about-section">
       <div className="container">
         <h2>About Me</h2>
         <div className="about-content">
